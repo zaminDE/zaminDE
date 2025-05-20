@@ -1,17 +1,11 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">
-  Hi 👋, I'm Muhammad Zamin
-</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zamin</h1>
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #2d3748; margin-top: -10px; margin-bottom: 20px;">
+<h3 align="center" style="color:#1f2937; font-weight:700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Experienced Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student
-</h2>
+</h3>
 
-<p align="center" style="margin-top: 0;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=550&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" 
-    alt="Typing SVG" 
-    style="max-width: 100%; height: auto;" 
-  />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,12 +14,8 @@
 
 - 🎓 Final year Bachelor's student in **Statistics**
 - 🏫 Trainee at **SMIT - Data Engineering Program**
-- 🔭 Currently working on:
-  - Data Warehousing using **SQL Server & Snowflake**
-  - Building end-to-end pipelines with **Python**
-  - Exploring **Apache Airflow** for orchestration
-  - Getting started with **AWS (S3, EC2, RDS, Lambda)** for cloud data solutions
-- 📚 Interested in Big Data, Cloud ETL Pipelines, and Real-time Streaming with Kafka
+- 🔭 Currently working on data warehousing with **SQL Server & Snowflake**, building ETL pipelines in **Python**
+- ☁️ Exploring **Apache Airflow** & **AWS (S3, EC2, Lambda)**
 - 📫 Reach me at: **zaminraza333@gmail.com**
 
 ---
@@ -33,55 +23,39 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, SQL  
-- **Libraries/Tools:** Pandas, NumPy, Matplotlib, BeautifulSoup  
-- **Databases & DWH:** SQL Server, Snowflake, MySQL  
-- **Cloud:** AWS (EC2, S3, Lambda, RDS)  
-- **Data Visualization:** Power BI  
+- **Tools:** Pandas, NumPy, Matplotlib, BeautifulSoup  
+- **Databases:** SQL Server, Snowflake, MySQL  
+- **Cloud:** AWS (EC2, S3, Lambda)  
+- **Visualization:** Power BI  
 - **Orchestration:** Apache Airflow  
-- **Other Tools:** Git/GitHub, Bash, Kaggle API  
+- **Others:** Git/GitHub, Bash, Kaggle API  
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Projects
 
-🔹 **Airflow Stock Pipeline**  
-⚙️ Built a real-time data pipeline using Apache Airflow, `yfinance`, and SQL Server to fetch, transform, and load hourly stock market data.
-
-🔹 **Telecom Churn Data Pipeline**  
-📉 Processed customer churn data using pandas for feature engineering and insight extraction for business decisions.
-
-🔹 **ETL with Python – Banks Dataset**  
-💼 Designed a full ETL pipeline using Python to extract, clean, and store banking data in SQLite with modular logging and transformation.
+- **Airflow Stock Pipeline:** Real-time stock data pipeline with Airflow, yfinance & SQL Server  
+- **Telecom Churn Data Pipeline:** Customer churn analysis & feature engineering in pandas  
+- **Bank ETL Pipeline:** Modular ETL using Python & SQLite with logging
 
 ---
 
-## 🏅 Certifications
+### 🏅 Certifications
 
-- **Hands-On Essentials: Data Warehousing Workshop** – Snowflake (Apr 2025)  
-  *Skills:* Data Warehousing
-
-- **Databases and SQL for Data Science with Python** – Coursera (Dec 2023)  
-  *Skills:* MySQL, ERD, Data Management
-
-- **Introduction to Relational Databases (RDBMS)** – Coursera (Nov 2023)  
-  *Skills:* MySQL, RDBMS
-
-- **Python Project for Data Engineering** – Coursera (Oct 2023)  
-  *Skills:* Data Management, Database Design
-
-- **Python for Data Science, AI & Development** – Coursera (Sep 2023)  
-  *Skills:* pandas, NumPy, Python
-
-- **Introduction to Data Engineering** – Coursera (Aug 2023)  
-  *Skills:* Data Wrangling, Big Data, Data Warehousing
+- Snowflake - Hands-On Essentials: Data Warehousing Workshop (Apr 2025)  
+- Coursera - Databases & SQL for Data Science (Dec 2023)  
+- Coursera - Introduction to RDBMS (Nov 2023)  
+- Coursera - Python Project for Data Engineering (Oct 2023)  
+- Coursera - Python for Data Science (Sep 2023)  
+- Coursera - Introduction to Data Engineering (Aug 2023)  
 
 ---
 
-## 📬 Connect with Me
+### 📬 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/mzamin-dataengnieer)  
-- 🧠 [GitHub](https://github.com/zaminDE)  
-- 📧 Email: zaminraza333@gmail.com
+- [LinkedIn](https://linkedin.com/in/mzamin-dataengnieer)  
+- [GitHub](https://github.com/zaminDE)  
+- Email: zaminraza333@gmail.com
 
 ---
 
