@@ -5,7 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" 
+    alt="Typing SVG" 
+    style="max-width: 100%; height: auto;" 
+  />
 </p>
 
 ---
