@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zamin</h1>
 
 <h3 align="center" style="color:#1f2937; font-weight:700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Experienced Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student
+  Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student
 </h3>
 
 <p align="center" style="padding-left: 20px; padding-right: 20px;">
