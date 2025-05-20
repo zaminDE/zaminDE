@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zamin</h1>
-<h2 align="center" style="margin-top: -10px; margin-bottom: 10px;">Experienced Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student</h2>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">
+  Hi 👋, I'm Muhammad Zamin
+</h1>
+
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; color: #2d3748; margin-top: -10px; margin-bottom: 20px;">
+  Experienced Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student
+</h2>
 
 <p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=480&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=550&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" 
+    alt="Typing SVG" 
+    style="max-width: 100%; height: auto;" 
+  />
 </p>
 
 ---
