@@ -4,9 +4,9 @@
   Experienced Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student
 </h3>
 
-<p align="center">
+<p align="center" style="padding-left: 20px; padding-right: 20px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" 
     alt="Typing SVG" 
     style="max-width: 100%; height: auto;" 
   />
