@@ -35,9 +35,9 @@
 - **Languages:** Python, SQL  
 - **Libraries/Tools:** Pandas, NumPy, Matplotlib, BeautifulSoup  
 - **Databases & DWH:** SQL Server, Snowflake, MySQL  
-- **Cloud:** AWS (EC2, S3, Lambda, RDS) 
-- **Data Viz:** Power BI  
-- **Orchestration:** Apache Airflow
+- **Cloud:** AWS (EC2, S3, Lambda, RDS)  
+- **Data Visualization:** Power BI  
+- **Orchestration:** Apache Airflow  
 - **Other Tools:** Git/GitHub, Bash, Kaggle API  
 
 ---
