@@ -1,66 +1,67 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zamin</h1>
+# 👋 Hi, I'm Muhammad Zamin
 
-<h3 align="center" style="color:#1f2937; font-weight:700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Cloud Data Engineer | Python & SQL | Cloud & Big Data | Statistics Student
-</h3>
+**Cloud Data Engineer | ETL | Streaming | Snowflake | AWS | Airflow | Kafka**
 
-<p align="center" style="padding-left: 20px; padding-right: 20px;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Cloud+Data+Engineer+%7C+Python+%7C+SQL+%7C+AWS+%7C+Snowflake+%7C+Power+BI;Bachelor's+in+Statistics+%7C+SMIT+Trainee" 
-    alt="Typing SVG" 
-    style="max-width: 100%; height: auto;" 
-  />
-</p>
+🚀 I’m a passionate Cloud Data Engineer with hands-on experience in building modern data pipelines, real-time streaming systems, and cloud data warehousing solutions. I specialize in Python, SQL, Apache Airflow, Snowflake, and AWS (S3, EC2, Lambda, Glue, Athena).
 
 ---
 
-### 💫 About Me
+## 🔧 Tech Stack
 
-- 🎓 Final year Bachelor's student in **Statistics**
-- 🏫 Trainee at **SMIT - Data Engineering Program**
-- 🔭 Currently working on data warehousing with **SQL Server & Snowflake**, building ETL pipelines in **Python**
-- ☁️ Exploring **Apache Airflow** & **AWS (S3, EC2, Lambda)**
-- 📫 Reach me at: **zaminraza333@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Python, SQL  
-- **Tools:** Pandas, NumPy, Matplotlib, BeautifulSoup  
-- **Databases:** SQL Server, Snowflake, MySQL  
-- **Cloud:** AWS (EC2, S3, Lambda)  
-- **Visualization:** Power BI  
-- **Orchestration:** Apache Airflow  
-- **Others:** Git/GitHub, Bash, Kaggle API  
+- **Languages**: Python, SQL  
+- **Orchestration & Streaming**: Apache Airflow, Apache Kafka  
+- **Cloud Services**: AWS S3, EC2, Lambda, Glue, Athena  
+- **Data Warehouse**: Snowflake (Streams, Tasks, Snowpipe, SnowSQL)  
+- **Visualization**: Power BI  
+- **Python Libraries**: Pandas, NumPy, Matplotlib, BeautifulSoup  
 
 ---
 
-### 🚀 Projects
+## 💼 Experience
 
-- **Airflow Stock Pipeline:** Real-time stock data pipeline with Airflow, yfinance & SQL Server  
-- **Telecom Churn Data Pipeline:** Customer churn analysis & feature engineering in pandas  
-- **Bank ETL Pipeline:** Modular ETL using Python & SQLite with logging
+### 💡 Junior Data Engineer — *Calvary North Adelaide Hospital* (Mar 2025 – Present)
+- Automated Airflow pipelines to extract daily data from SQL Server.
+- Loaded and transformed data into S3 and Snowflake (Raw → Stage → Main).
+- Improved reporting speed by 80% and reduced manual effort by 90%.
+- Applied Pandas + Snowflake SQL for cleaning and validation.
 
----
-
-### 🏅 Certifications
-
-- Snowflake - Hands-On Essentials: Data Warehousing Workshop (Apr 2025)  
-- Coursera - Databases & SQL for Data Science (Dec 2023)  
-- Coursera - Introduction to RDBMS (Nov 2023)  
-- Coursera - Python Project for Data Engineering (Oct 2023)  
-- Coursera - Python for Data Science (Sep 2023)  
-- Coursera - Introduction to Data Engineering (Aug 2023)  
+### 🧪 Data Engineer Intern — *SMIT Bootcamp* (Nov 2024 – June 2025)
+- Developed batch and real-time pipelines using Airflow, Kafka, and AWS.
+- Integrated SQL Server and Snowflake for scalable data flows.
+- Built SCD models and analytical dashboards in Power BI.
 
 ---
 
-### 📬 Connect
+## 📁 Projects
 
-- [LinkedIn](https://linkedin.com/in/mzamin-dataengnieer)  
-- [GitHub](https://github.com/zaminDE)  
-- Email: zaminraza333@gmail.com
+### 📌 Real-Time Stock Market Streaming Pipeline [GitHub](https://github.com/zaminDE/)
+- Streamed stock data from EC2 using Kafka, stored in S3, and queried via Athena.
+
+### 📌 SCD Pipeline with Snowflake, Apache NiFi, and Streams [GitHub](https://github.com/zaminDE/)
+- Created CDC flow using Snowpipe + NiFi; managed SCD Types 1 & 2 via streams/tasks.
+
+### 📌 Telecom Customer Churn ETL [GitHub](https://github.com/zaminDE/)
+- Built Snowflake ETL with Python; created Power BI dashboards using advanced SQL.
+
+### 📌 Currency Exchange Rate ETL [GitHub](https://github.com/zaminDE/)
+- Serverless pipeline with Lambda + S3, analyzed in Snowflake.
 
 ---
 
-> “Data is the new oil. I build pipelines to deliver it.”
+## 📜 Certifications
+
+- ✅ Cloud Data Engineering — *Saylani Mass IT Training*  
+- ✅ Databases & SQL for Data Science — *Coursera*  
+- ✅ Python for Data Science, AI & Development — *Coursera*
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: zaminraza333@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 💻 GitHub: [github.com/zaminDE](https://github.com/zaminDE)
+
+---
+
+*Always learning, always building — let’s transform data into insights!* 💡
